@@ -5,13 +5,9 @@ public class StringTest {
 
 
 
-            for(int i = 3; i <=4; i++)
-            {
-                for(int j=2; j<i; j++)
-                {
-                    System.out.print("*\n");
-                }
-            }
+           String s1="baby";
+           String s2=s1.substring(2);
+           System.out.print(s2);
         }
 
 }
