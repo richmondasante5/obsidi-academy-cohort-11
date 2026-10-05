@@ -1,4 +1,4 @@
-package com.bptn.course.KnowledgeCheck;
+package com.bptn.course.CodeTest;
 
 public class SquareRoot {
 

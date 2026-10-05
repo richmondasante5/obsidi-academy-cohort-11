@@ -1,4 +1,4 @@
-package com.bptn.course._04_strings;
+package com.bptn.course._04_Strings;
 
 public class MadLibs1 {
     public static void main(String[] args) {

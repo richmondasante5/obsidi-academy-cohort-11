@@ -1,4 +1,4 @@
-package com.bptn.course._04_strings;
+package com.bptn.course._04_Strings;
 
 public class Greeting {
 

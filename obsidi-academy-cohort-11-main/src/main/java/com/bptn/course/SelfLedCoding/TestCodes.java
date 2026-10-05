@@ -1,4 +1,4 @@
-package com.bptn.course.SelfCoding;
+package com.bptn.course.SelfLedCoding;
 
 public class TestCodes {
     public static void main(String[] args){
